@@ -11,7 +11,7 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("Professor José de Assis");
+		System.out.println("Robson Carvalho");
 	}
 
 }
